@@ -16,7 +16,6 @@ O prettier tbm pode ser usado como extensão no VSCode
       Esse arquivo pode ser vazio
       
 
-
 # Eslint
 Eslint pode ser usado juntamente com o Eslint-config-prettier
 ```js
@@ -28,3 +27,15 @@ O eslint tbm precisa de um arquivo de configuração, o *.eslintrc.{json, yml, j
 
 # Babel
 É o babel, que foi configurado pelo Parser, quem permite a utilização de JSX?
+
+
+# Conceitos
+Statements e Expressions
+Staments é a uma ideia completa
+Expressions compõe statments; é tudo que pode ir a direito de um sinal de =
+
+```js 
+  const x = var.toUpperCase() // statement
+            var.toUpperCase() // expression
+```
+
