@@ -25,3 +25,6 @@ Eslint pode ser usado juntamente com o Eslint-config-prettier
 
 O eslint tbm precisa de um arquivo de configuração, o *.eslintrc.{json, yml, js}*
 É nesse arquivo que se concentra as regras que o eslint vai usar para validar o código
+
+# Babel
+É o babel, que foi configurado pelo Parser, quem permite a utilização de JSX?
